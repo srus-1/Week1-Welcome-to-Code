@@ -30,8 +30,8 @@
 
 
 
-let nama = "budi";
-let peran = "penyihir"; 
+let nama = "";
+let peran = ""; 
 
 if(nama === ""){
     console.log("nama wajib diisi!!");
